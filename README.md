@@ -10,4 +10,4 @@ Este é um site simples que inclui [descrição do que o site contém, como mens
 
 - HTML
 - CSS
-- JavaScript (se aplicável)
+- JavaScript
